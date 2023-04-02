@@ -32,6 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://leetcode.cn/u/mi-mi-ce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="秘密" height="30" width="40" /></a>
+  
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **kaihaowong15@gmail.com**
