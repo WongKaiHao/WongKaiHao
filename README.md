@@ -12,5 +12,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.cn/秘密" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="秘密" height="30" width="40" /></a>
+<a href="[https://www.leetcode.cn/秘密](https://leetcode.cn/u/mi-mi-ce/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="秘密" height="30" width="40" /></a>
 </p>
