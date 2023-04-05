@@ -25,11 +25,11 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongkaihao&show_icons=true&locale=en&layout=compact" alt="wongkaihao" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongkaihao&show_icons=true&locale=en&layout=compact&theme=dark" alt="wongkaihao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wongkaihao&show_icons=true&locale=en" alt="wongkaihao" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wongkaihao&show_icons=true&locale=en&theme=dark" alt="wongkaihao" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongkaihao&" alt="wongkaihao" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongkaihao&theme=dark" alt="wongkaihao" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
