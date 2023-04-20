@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wong Kai Hao</h1>
 <h3 align="center">I'm a software engineering student from Malaysia.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+<h5 align="center">- 🌱 I’m currently learning <ins>MERN stack</ins> , <ins>Flutter</ins> </h5>
+<h5 align="center">- 📝 I’m also studying best practice of directory arrangement of <ins>MERN stack</ins> </h5>
 
 <h3 align="left">Used Programming Languages and Tools:</h3>
 <p align="center"> 
