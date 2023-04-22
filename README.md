@@ -2,7 +2,9 @@
 <h3 align="center">I'm a software engineering student from Malaysia.</h3>
 
 <h5 align="center">- 🌱 I’m currently learning <ins>MERN stack</ins> , <ins>Flutter</ins> </h5>
-<h5 align="center">- 📝 I’m also studying best practice of directory arrangement of <ins>MERN stack</ins> </h5>
+<h5 align="center">- 📝 I’m also studying best practice of directory arrangement of <ins>MERN stack</ins> </h5>  
+
+---  
 
 <h3 align="left">Used Programming Languages and Tools:</h3>
 <p align="center"> 
@@ -23,11 +25,15 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongkaihao&show_icons=true&locale=en&layout=compact&theme=dark" alt="wongkaihao" /></p>  
+---  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wongkaihao&show_icons=true&locale=en&theme=dark" alt="wongkaihao" /></p>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wongkaihao&show_icons=true&locale=en&layout=compact&theme=dark" alt="wongkaihao" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongkaihao&theme=dark" alt="wongkaihao" /></p>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wongkaihao&show_icons=true&locale=en&theme=dark" alt="wongkaihao" /></p>  
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wongkaihao&theme=dark" alt="wongkaihao" /></p>  
+
+---  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
