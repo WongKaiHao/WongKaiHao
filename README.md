@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineering student from Malaysia.</h3>
 
 <h5 align="center">- 🌱 I’m currently learning <ins>MERN stack</ins> , <ins>Flutter</ins> </h5>
-<h5 align="center">- 📝 I’m also studying best practice of directory arrangement of <ins>MERN stack</ins> </h5>  
+<h5 align="center">- 📝 I’m also studying best practice of project structure of <ins>MERN stack</ins> </h5>  
 
 ---  
 
